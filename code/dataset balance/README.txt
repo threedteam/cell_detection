@@ -1,1 +1,0 @@
-This code is used to generate the COCO dataset from 7000 images which has been balanced.
